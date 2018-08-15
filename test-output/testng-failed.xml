@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="basic.LaunchTC">
+      <class name="testcases.LoginWordPress.LoginWordPressTC">
         <methods>
-          <include name="google"/>
+          <include name="UserLoginToWordPress"/>
         </methods>
-      </class> <!-- basic.LaunchTC -->
+      </class> <!-- testcases.LoginWordPress.LoginWordPressTC -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
