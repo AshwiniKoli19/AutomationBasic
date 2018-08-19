@@ -2,8 +2,6 @@ package pageObjects.loginWordPressPage;
 
 import org.openqa.selenium.WebDriver;
 
-import ActionBot.Actions;
-
 public class LoginPage 
 {
 	

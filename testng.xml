@@ -4,6 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="testcases.LoginWordPress.LoginWordPressTC"/>
+<!--  <class name="basic.LoginLinkedIn"/> -->
+<!--  <class name="basic.LaunchTC"/> -->
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

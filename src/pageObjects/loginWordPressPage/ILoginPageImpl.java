@@ -1,8 +1,6 @@
 package pageObjects.loginWordPressPage;
 
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
-
 import ActionBot.Actions;
 
 public class ILoginPageImpl implements ILoginPage

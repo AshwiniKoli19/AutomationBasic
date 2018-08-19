@@ -1,6 +1,5 @@
 package basic;
 
-import org.apache.http.util.Asserts;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -8,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;import com.beust.jcommander.Parameter;
+import org.testng.annotations.Test;
 
 import startups.DriverFactory;
 
@@ -21,7 +20,7 @@ public class LaunchTC
 		
 		WebDriver driver = null;
 		
-		driver = DriverFactory.intialiseChromeDriver(driver);
+		driver = DriverFactory.intialiseChromeDriver();
 		/*System.setProperty("webdriver.chrome.driver", "D:\\jars & drivers\\chromedriver_win32\\chromedriver.exe");
 		System.out.println("start");
 		
