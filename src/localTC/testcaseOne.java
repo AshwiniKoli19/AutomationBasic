@@ -10,4 +10,8 @@ public class testcaseOne
 	{
 		System.out.println("testcaseOne.show()");
 	}
+	public void write()
+	{
+		System.out.println("testcaseOne.write()");
+	}
 }
