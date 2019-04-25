@@ -18,4 +18,8 @@ public class testcaseOne
 	{
 		System.out.println("testcaseOne.cue()");
 	}
+	public void logic()
+	{
+		System.out.println("testcaseOne.logic()");
+	}
 }
