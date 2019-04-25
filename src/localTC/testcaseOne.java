@@ -14,4 +14,8 @@ public class testcaseOne
 	{
 		System.out.println("testcaseOne.write()");
 	}
+	public void cue()
+	{
+		System.out.println("testcaseOne.cue()");
+	}
 }
