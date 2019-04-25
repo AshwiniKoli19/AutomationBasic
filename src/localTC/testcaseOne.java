@@ -6,4 +6,8 @@ public class testcaseOne
 	{
 		System.out.println("testcaseOne.display()");
 	}
+	public void show()
+	{
+		System.out.println("testcaseOne.show()");
+	}
 }
