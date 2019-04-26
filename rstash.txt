@@ -1,1 +1,5 @@
+
 stash branch
+
+create stag > delete branch > check stage from other branch
+
